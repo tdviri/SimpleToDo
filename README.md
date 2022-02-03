@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-As someone who is new to android development, I have encountered a couple of challenges while building the app. One of these challenges was working with different methods and syntax that I wasn't familiar with. However, I have plenty of experience with Java, and there many similarities between Java and Kotlin, so I was able to learn quickly and pick up new concepts during the development of this todo app.
+As someone who is new to android development, I have encountered a couple of challenges while building the app. One of these challenges was working with different methods and syntax that I wasn't familiar with. However, I have plenty of experience with Java, and there are many similarities between Java and Kotlin. As a result, I was able to learn quickly and pick up new concepts during the development of this todo app.
 
 ## License
 
